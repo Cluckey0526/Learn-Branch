@@ -7,5 +7,6 @@ if [ -f "$1" ]
 then
     echo "Learning is good then cook"
 else
-    echo "if not then #420"
+    echo "if not then t420"
 fi
+script is broken test
